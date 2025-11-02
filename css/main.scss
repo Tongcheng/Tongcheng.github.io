@@ -8,33 +8,31 @@
 // Our variables
 $base-font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
 $heading-font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
-$base-font-size:   18px;
+$base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.7;
+$base-line-height: 1.6;
 
-$spacing-unit:     40px;
+$spacing-unit:     32px;
 
-// Modern color palette
-$text-color:       #2c3e50;
-$background-color: #ffffff;
-$brand-color:      #6366f1;
-$brand-color-hover: #4f46e5;
+// Minimal dark color palette
+$text-color:       #ffffff;
+$background-color: #000000;
+$brand-color:      #ffffff;
+$brand-color-hover: #cccccc;
 
-$grey-color:       #64748b;
-$grey-color-light: #e2e8f0;
-$grey-color-lighter: #f1f5f9;
-$grey-color-dark:  #475569;
-$border-color:     #e2e8f0;
+$grey-color:       #888888;
+$grey-color-light: #333333;
+$grey-color-lighter: #1a1a1a;
+$grey-color-dark:  #cccccc;
+$border-color:     #333333;
 
-// Accent colors
-$accent-color:     #8b5cf6;
-$success-color:   #10b981;
-$warning-color:   #f59e0b;
+// Accent colors (minimal, mostly monochrome)
+$accent-color:     #ffffff;
 
-// Shadows
-$shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
-$shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-$shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+// Shadows (minimal, subtle)
+$shadow-sm: none;
+$shadow-md: none;
+$shadow-lg: none;
 
 // Width of the content area
 $content-width:    800px;
