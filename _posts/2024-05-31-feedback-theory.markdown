@@ -3,6 +3,7 @@ layout: post
 title:  "[May/2024] 反馈论"
 date:   2024-05-31 00:00:00
 categories: philosophy
+permalink: /May_2024/
 ---
 
 小往大来，三阳开泰

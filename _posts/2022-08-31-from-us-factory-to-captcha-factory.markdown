@@ -3,6 +3,7 @@ layout: post
 title:  "[Aug/2022] 从美国工厂到验证码工厂 – 一种全球套利"
 date:   2022-08-31 00:00:00
 categories: economics
+permalink: /Aug_2022/
 ---
 
 ## Level-1 : 美国工厂

@@ -3,6 +3,7 @@ layout: post
 title:  "[Feb/2023] 销售术 – 知彼知己"
 date:   2023-02-28 00:00:00
 categories: sales
+permalink: /Feb_2023/
 ---
 
 前几个月学习了华尔街之狼Jordan Belfort的销售课，干货满满.

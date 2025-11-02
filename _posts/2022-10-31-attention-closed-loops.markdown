@@ -3,6 +3,7 @@ layout: post
 title:  "[Oct/2022] 注意力闭环: Closing the Open Loops"
 date:   2022-10-31 00:00:00
 categories: productivity
+permalink: /Oct_2022/
 ---
 
 鬼谷子有云:

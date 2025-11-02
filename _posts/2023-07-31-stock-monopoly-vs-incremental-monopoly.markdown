@@ -3,6 +3,7 @@ layout: post
 title:  "[July/2023] 存量垄断与增量垄断"
 date:   2023-07-31 00:00:00
 categories: business
+permalink: /Jul_2023/
 ---
 
 [本文对存量垄断的理解主要来自于"亚洲教父"一书，对增量垄断的理解主要来自"大猩猩游戏"和"产品经理的无限游戏"].

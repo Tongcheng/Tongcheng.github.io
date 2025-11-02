@@ -3,6 +3,7 @@ layout: post
 title:  "[Dec/2021] 2021总结"
 date:   2021-12-31 00:00:00
 categories: summary
+permalink: /Dec_2021/
 ---
 
 ## Why

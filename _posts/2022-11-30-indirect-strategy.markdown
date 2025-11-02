@@ -3,6 +3,7 @@ layout: post
 title:  "[Nov/2022] 间接方法 | Indirect Strategy"
 date:   2022-11-30 00:00:00
 categories: strategy
+permalink: /Nov_2022/
 ---
 
 兵家Liddell Hart认为战争中许多巨大的胜利是源于间接方法.
